@@ -1,2 +1,2 @@
-# GEOG5990M-Portfolio
+# GEOG5990M Final Assignment
 GEOG5990M
